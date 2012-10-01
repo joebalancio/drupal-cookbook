@@ -1,4 +1,12 @@
-drupal-cookbook
-===============
+Description
+===========
 
-Chef Cookbook for Drupal
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
